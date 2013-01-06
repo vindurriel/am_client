@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "am_client", "am_client\am_client.csproj", "{71B71F51-7481-4B7C-A7AF-6716BA464AEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rest_test", "rest_test\rest_test.csproj", "{48E59B3F-A623-47FC-A6C7-6D1F9F953D7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,16 @@ Global
 		{71B71F51-7481-4B7C-A7AF-6716BA464AEE}.Release|x86.ActiveCfg = Release|x86
 		{71B71F51-7481-4B7C-A7AF-6716BA464AEE}.Release|x86.Build.0 = Release|x86
 		{71B71F51-7481-4B7C-A7AF-6716BA464AEE}.Release|x86.Deploy.0 = Release|x86
+		{48E59B3F-A623-47FC-A6C7-6D1F9F953D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E59B3F-A623-47FC-A6C7-6D1F9F953D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E59B3F-A623-47FC-A6C7-6D1F9F953D7A}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{48E59B3F-A623-47FC-A6C7-6D1F9F953D7A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{48E59B3F-A623-47FC-A6C7-6D1F9F953D7A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{48E59B3F-A623-47FC-A6C7-6D1F9F953D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E59B3F-A623-47FC-A6C7-6D1F9F953D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E59B3F-A623-47FC-A6C7-6D1F9F953D7A}.Release|ARM.ActiveCfg = Release|Any CPU
+		{48E59B3F-A623-47FC-A6C7-6D1F9F953D7A}.Release|x64.ActiveCfg = Release|Any CPU
+		{48E59B3F-A623-47FC-A6C7-6D1F9F953D7A}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
